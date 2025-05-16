@@ -1,12 +1,36 @@
-# React + Vite
+# GFERAÇÃOTECH2025 - Aula 5
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este repositório contém os materiais e códigos desenvolvidos durante a Aula 5 do curso GFERAÇÃOTECH2025.
 
-Currently, two official plugins are available:
+## Conteúdo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Exemplos práticos apresentados em aula
+- Criação no react de pagina de vendas "fakestore"
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Como usar
+
+1. Clone este repositório:
+      ```bash
+      git clone https://github.com/biosbio/Site-Fake-Store.git
+      ```
+2. Acesse a pasta da aula:
+      ```bash
+      cd Site-Fake-Store
+      npm install
+      npm run dev
+      ```
+3. Siga as instruções dos arquivos de código e exercícios.
+
+## Requisitos
+
+- [Node.js](https://nodejs.org/) 
+- Editor de código de sua preferência
+
+## Contribuição
+
+Sinta-se à vontade para abrir issues ou enviar pull requests com melhorias.
+
+## Licença
+
+Este projeto está licenciado sob a licença MIT.
