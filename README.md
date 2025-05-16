@@ -1,4 +1,4 @@
-# GFERAÇÃOTECH2025 - Aula 5
+# SITE FAKESTORE
 
 Este repositório contém os materiais e códigos desenvolvidos durante a Aula 5 do curso GFERAÇÃOTECH2025.
 
